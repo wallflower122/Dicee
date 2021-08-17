@@ -1,0 +1,49 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #3D087B;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Chakra Petch', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #F43B86;
+}
+
+p {
+  font-size: 2rem;
+  color: #FFE459;
+font-family: 'Chakra Petch', sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+.foooter{
+  color:#fae0e4;
+  font-size: 1.5rem;
+  margin: 2%;
+}
+.foooter:hover{
+  color:#ff4c68;
+}
